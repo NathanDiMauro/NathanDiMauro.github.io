@@ -3,7 +3,7 @@ var filesToCache = [
   '/',
   '/index.html',
   '/css/style.css',
-  '/js/main.js'
+  '/js/main.js',
   '/images/hello-icon-128.png'
 ];
 
